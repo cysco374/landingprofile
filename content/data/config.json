@@ -59,7 +59,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "",
                         "url": "/signup",
                         "style": "link"
                     },
