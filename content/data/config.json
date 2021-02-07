@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "",
                 "url": "/signup",
                 "style": "primary",
                 "has_icon": false
