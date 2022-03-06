@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Website & SEO Services
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Anchornetmedia memberikan layanan Pembuatan Website dan SEO
     actions:
       - label: Learn More
         url: /features
