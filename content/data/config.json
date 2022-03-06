@@ -142,7 +142,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Anchornetmedia - 2022. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours </a>."
+        "content": "&copy; Anchornetmedia - 2022. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     },
     "domain": "https://landingprofile.netlify.app"
 }
